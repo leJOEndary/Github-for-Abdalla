@@ -38,15 +38,22 @@ IV - To push changes to your own github branch do the following :-
 	4- Type  : (git commit -m "Any brief description of your tasks inside double quotes")
 	   Expect: [dev blablabla] "the description u entered for the commit", 1 file changed.....
 
-	5- Type  : (git checkout -b dev-"your name without the quotes")
+	5- Type  : (git checkout -b dev-"your name without the quotes")  **choose a new name other than ur old branch**
 	   Expect: Switched to a new branch 'X'
 
 	6- Type  : (git push -u origin "The value of X without the quotes")
 	   Expect: It may or may not ask for your github credentials, then you will see it
              uploading.
+	     
 
 
 V - Wait for a the upload, then refresh the repo and check the changes on your new branch 'X'.
+
+
+VI- **Optional** now there're 2 branches, your old and your new one, to delete the old branch,
+	Type : (git push origin :"Your old branch name")    **Include the ':'**
+	Expect: A msg saying it's deleted.
+
 
 
 Wasalamo 3alaykom wara7matollah wa barakatoh.

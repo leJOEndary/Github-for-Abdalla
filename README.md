@@ -49,4 +49,4 @@ IV - To push changes to your own github branch do the following :-
 V - Wait for a the upload, then refresh the repo and check the changes on your new branch 'X'.
 
 
-Wasalamo 3alaykom wara7matolah wa barakatoh.
+Wasalamo 3alaykom wara7matollah wa barakatoh.

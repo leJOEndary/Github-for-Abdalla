@@ -41,7 +41,7 @@ IV - To push changes to your own github branch do the following :-
 	5- Type  : (git checkout -b dev-"your name without the quotes")
 	   Expect: Switched to a new branch 'X'
 
-	6- Type  : (git push origin "The value of X without the quotes")
+	6- Type  : (git push -u origin "The value of X without the quotes")
 	   Expect: It may or may not ask for your github credentials, then you will see it
              uploading.
 

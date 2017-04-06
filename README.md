@@ -17,7 +17,10 @@ II - To pull the repo after noura announces do the following :-
 	   Expect : github asks you for username and pw.
 
 	5- After entering them successfully, Type : (git branch)     **Confirmation for step 4**
-	   Expect : * dev "in green" & you should find the new code in your new folder.
+	   Expect : *master "in green" & you should find the new code in your new folder.
+	   
+	6- Type : (git checkout -b dev)
+	   Expect : Switched to a new branch 'dev'
 
 
 III- Now copy your stuff from the old to the new code.
